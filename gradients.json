@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Scaled And Icy",
+        "colors": ["#ee7eab","#a2a3bd", "#76b9c8"]
     }
 ]
